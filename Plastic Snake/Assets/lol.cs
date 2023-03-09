@@ -5,6 +5,7 @@ using UnityEngine;
 public class lol : MonoBehaviour
 {
     // Start is called before the first frame update
+    //Rikinottaken was here
     void Start()
     {
         
