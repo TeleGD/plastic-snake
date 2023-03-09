@@ -1,6 +1,9 @@
 # plastic-snake
 Projet 2023 - Jeu solo d'infiltration dans TN
 
+Version Unity :
+2021.3.20f1
+
 Description :
 
 L'idée choisie est de faire un jeu centré autour d'un canard de Tek'TN. Ce dernier essaie de retrouver un de ses amis canard dans TN puis s'échapper, le tout en évitant de subir le même sort que les autres canards de Tek. 
